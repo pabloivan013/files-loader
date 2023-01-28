@@ -10,7 +10,7 @@ public class HashNotSupportedException extends ResponseStatusException {
     public static HttpStatusCode DEFAULT_CODE;
 
     static {
-        DEFAULT_ERROR = "The 'hash' parameter only could be " +
+        DEFAULT_ERROR = "The 'hash' parameter only can be " +
                 "'"+Sha256.SHA_256 +"' or '"+ Sha512.SHA_512 +"'";
         DEFAULT_CODE = HttpStatus.BAD_REQUEST;
     }
