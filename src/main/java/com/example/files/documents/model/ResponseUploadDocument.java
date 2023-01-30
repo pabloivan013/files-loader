@@ -1,5 +1,5 @@
 package com.example.files.documents.model;
-import com.example.files.documents.View.Views;
+import com.example.files.documents.view.Views;
 import com.fasterxml.jackson.annotation.JsonView;
 
 import java.util.List;

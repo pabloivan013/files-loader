@@ -1,4 +1,4 @@
-package com.example.files.exeption;
+package com.example.files.exception;
 public class RestErrorResponse {
 
     private RestResponse error;

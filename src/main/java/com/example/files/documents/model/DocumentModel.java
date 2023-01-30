@@ -1,6 +1,6 @@
 package com.example.files.documents.model;
 
-import com.example.files.documents.View.Views;
+import com.example.files.documents.view.Views;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonView;

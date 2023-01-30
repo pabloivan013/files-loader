@@ -1,6 +1,6 @@
 package com.example.files.documents.controller;
 
-import com.example.files.documents.View.Views;
+import com.example.files.documents.view.Views;
 import com.example.files.documents.model.DocumentModel;
 import com.example.files.documents.model.ResponseUploadDocument;
 import com.example.files.documents.service.DocumentService;

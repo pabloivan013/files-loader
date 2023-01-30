@@ -1,4 +1,4 @@
-package com.example.files.exeption;
+package com.example.files.exception;
 
 import java.time.Instant;
 import java.util.Objects;
